@@ -17,11 +17,6 @@ $ cd .. # this moves up a directory
 $ pwd
 ```
 
-## Intro to Git/Github
-
-        * Git
-        * Github
-
 ## Git Commands
 
 #### Creating a repository on your computer

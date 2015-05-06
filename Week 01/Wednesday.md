@@ -1,6 +1,5 @@
 ## Github Intro
 
-  * Set up auth keys
   * Everything needs a `Readme.md` file
   * Everything needs a `.gititnore` file (and should probably include `.DS_Store`
 
