@@ -125,3 +125,13 @@ If you embed the main.css and then the fonts.css gets imported from within it, t
 
 __10 seconds total__
 
+
+## Resources
+
+* [RWD Checklist](http://samkap.github.io/rwd-checklist/)
+* [Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
+* [Viewport Units](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
+* [Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model)
+* [Box Sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+* [HTML Forms Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
+* [Google Fonts](https://www.google.com/fonts)
