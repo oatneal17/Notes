@@ -37,3 +37,25 @@ You'll need an SSH key when using Github. SSH keys are a way to identify trusted
 #### [Sublime Text 3](http://www.sublimetext.com/3)
 
 * Download & Install
+
+#### [Homebrew](http://brew.sh/)
+
+A package manager for installing developmental tools onto your Apple computer.
+
+* Open up Terminal.app (Applications > Utilities > Terminal)
+* Go [here for install instructions](http://brew.sh/)
+* Follow the instructions on-screen.
+* When finished, run `brew doctor`.
+
+#### [Node](http://nodejs.org/) & [NPM](https://www.npmjs.org/)
+
+Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
+
+* Open up terminal
+* Run `brew install node`
+
+Node Package Manager (NPM) comes installed with Node. If you followed the above you'll have it installed. Let's check to make sure.
+
+* Open up terminal
+* Run `npm help`
+
